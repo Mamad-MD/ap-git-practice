@@ -3,5 +3,6 @@
 int main()
 {
 	printf("Hello,World!");
+	print(" :)))))) ");
 	return 0;
 }
